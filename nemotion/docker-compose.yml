@@ -1,0 +1,13 @@
+version: '3'
+services:
+    model:
+        build: .
+        container_name: nemotion
+        volumes:
+            - ./:/tf/nemotion
+        ports:
+            - 6006:6006
+            - 8888:8888
+        # runtime: nvidia
+        environment:
+            DEBUG: 1

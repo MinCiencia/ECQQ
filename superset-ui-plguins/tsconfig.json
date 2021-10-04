@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "plugins/legacy-plugin-chart-country-map-chile"
+    },
+  ],
+  "extends": "./tsconfig.options.json"
+}

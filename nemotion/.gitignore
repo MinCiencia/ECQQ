@@ -1,0 +1,8 @@
+*.bin
+*.vec
+.ipynb_checkpoints/
+.Trash-0
+out/
+core/__pycache__/
+data/
+models/hp/

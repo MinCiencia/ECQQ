@@ -1,0 +1,7 @@
+numpy
+matplotlib
+notebook
+pandas
+wordcloud==1.8.1
+graph_of_words==0.1
+nltk==3.6.2

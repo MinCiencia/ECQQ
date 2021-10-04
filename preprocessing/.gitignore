@@ -1,0 +1,13 @@
+datos
+data/*
+out/*
+db/CSV/*
+db/SQL_INSERT/*
+db/*.zip
+db/*.sql
+__pycache__/
+credentials.json
+token.pickle
+nuevos_datos
+scrum
+.ipynb_checkpoints/

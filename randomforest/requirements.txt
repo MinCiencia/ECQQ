@@ -1,0 +1,11 @@
+# Requirements 
+
+pandas
+json
+gensim
+numpy
+scikit-lern
+imblearn
+pickle
+matplotlib
+itertools

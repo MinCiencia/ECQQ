@@ -1,0 +1,37 @@
+{
+  "name": "@ecqq/legacy-plugin-chart-country-map-chile",
+  "version": "0.17.16",
+  "description": "Superset Legacy Chart - Country Map",
+  "sideEffects": [
+    "*.css"
+  ],
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "files": [
+    "esm",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECQQ/superset-ui-plguins.git"
+  },
+  "keywords": [
+    "superset"
+  ],
+  "author": "Superset",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ECQQ/superset-ui-plguins/issues"
+  },
+  "homepage": "https://github.com/ECQQ/superset-ui-plguins#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@superset-ui/chart-controls": "0.17.16",
+    "@superset-ui/core": "0.17.15",
+    "d3": "^3.5.17",
+    "d3-array": "^2.0.3",
+    "prop-types": "^15.6.2"
+  }
+}

@@ -1,0 +1,8 @@
+db/CSV/*
+db/CSV.zip
+
+jupyter_scripts/*.csv
+jupyter_scripts/*.sql
+jupyter_scripts/*.xlsx
+jupyter_scripts/.ipynb_checkpoints/
+jupyter_scripts/.~lock.*

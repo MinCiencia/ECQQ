@@ -1,0 +1,40 @@
+{
+  "name": "@ecqq/legacy-plugin-chart-word-graph",
+  "version": "0.17.21",
+  "description": "Superset Chart - Word Graph",
+  "sideEffects": [
+    "*.css"
+  ],
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "files": [
+    "esm",
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECQQ/superset-ui-plguins.git"
+  },
+  "keywords": [
+    "superset"
+  ],
+  "author": "Superset",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ECQQ/superset-ui-plguins/issues"
+  },
+  "homepage": "https://github.com/ECQQ/superset-ui-plguins#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@superset-ui/chart-controls": "0.17.19",
+    "@superset-ui/core": "0.17.18",
+    "vis-network": "9.0.4",
+    "vis-data": "^7.0.0",
+    "vis-util": "^5.0.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.13.1",
+    "d3": "^3.5.17"
+  }
+}

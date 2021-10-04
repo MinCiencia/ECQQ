@@ -1,0 +1,15 @@
+tensorflow
+pandas
+matplotlib
+joblib
+nltk
+gensim==3.8.3
+scikit-learn
+umap-learn
+jupyter-dash
+xlrd
+openpyxl
+unidecode
+pyspellchecker
+pyldavis
+wordcloud
